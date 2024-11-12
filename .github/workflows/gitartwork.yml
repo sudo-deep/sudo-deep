@@ -12,5 +12,5 @@
             # Use this username's contribution graph  
             user_name: sudo-deep
             # Text on contribution graph 
-            text: SUDO-DEEP
+            text: HI THERE!
        - uses: jasineri/simple-push-action@v1
