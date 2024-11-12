@@ -6,8 +6,9 @@
 ![gitartwork](gitartwork.svg)
 
 
-- 🌱 &nbsp;I’m currently learning Python, Machine Learning, Data Science and Deep Learning
-- 💬 &nbsp;Ask me about anything related to Python/Machine Learning/Django or Flask
+- 🌱 &nbsp;Exploring Machine Learning, MLOps, Computer Vision, and Robotics
+- 💬 &nbsp;Ask me about anything related to Python/Machine Learning/CV
+- 💬 &nbsp;Checkout my work experience and project list on my [Linkedin](https://www.linkedin.com/in/deepanshgl/)!
 - 📫 &nbsp;How to reach me: [Twitter](https://twitter.com/deepanshgl) or [Linkedin](https://www.linkedin.com/in/deepanshgl/)
 
 
