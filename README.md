@@ -3,7 +3,6 @@
 <!--![Banner](https://github.com/topguns837/Banners/blob/main/Github.png)-->
 
 <!-- ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> -->
-![gitartwork](gitartwork.svg)
 
 
 
